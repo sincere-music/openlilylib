@@ -6,7 +6,8 @@
   snippet-author = "Jan-Peter Voigt"
   snippet-description = \markup {
     \wordwrap {
-      The edition-engraver is a tool, to add tweaks to a score without cluttering the music source with (tagged) overrides.
+      The edition-engraver is a tool, to add tweaks to a score without
+      cluttering the music source with (tagged) overrides.
       Look in the README.md file for documentation.
     }
   }
